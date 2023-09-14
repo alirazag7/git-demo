@@ -3,3 +3,6 @@ this line is also written in main branch
 
 This line represent featural.
 This line  also represent featural.
+thes line creates feature2
+thes line also creates feature2
+thes line also   feature2
