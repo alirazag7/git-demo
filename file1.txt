@@ -9,3 +9,4 @@ thes line also   feature2
 
 thes line creates feature2
 thes line also creates feature2
+this is another line of feature 3
